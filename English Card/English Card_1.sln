@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "English Card_1.Plugins", "English Card_1.Plugins.csproj", "{2C9B05AC-4757-623D-C328-5DF015C7938E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "English Card_1", "English Card_1.csproj", "{13F9162B-8ABB-D426-8968-C3828DB09A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "English Card_1.Editor", "English Card_1.Editor.csproj", "{90E286EB-E22F-90F0-E4D6-25B8905B681E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9B05AC-4757-623D-C328-5DF015C7938E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9B05AC-4757-623D-C328-5DF015C7938E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9B05AC-4757-623D-C328-5DF015C7938E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9B05AC-4757-623D-C328-5DF015C7938E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F9162B-8ABB-D426-8968-C3828DB09A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F9162B-8ABB-D426-8968-C3828DB09A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F9162B-8ABB-D426-8968-C3828DB09A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F9162B-8ABB-D426-8968-C3828DB09A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E286EB-E22F-90F0-E4D6-25B8905B681E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E286EB-E22F-90F0-E4D6-25B8905B681E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E286EB-E22F-90F0-E4D6-25B8905B681E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E286EB-E22F-90F0-E4D6-25B8905B681E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

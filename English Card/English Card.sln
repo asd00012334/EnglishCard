@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "English Card.Plugins", "English Card.Plugins.csproj", "{521965E3-6C37-5450-8CB5-1BD46175A34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "English Card", "English Card.csproj", "{078DF0D8-70D4-4B8D-DC9B-08C729997B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "English Card.Editor", "English Card.Editor.csproj", "{D1D52781-B74E-CE9D-1364-83C8387A0BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521965E3-6C37-5450-8CB5-1BD46175A34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521965E3-6C37-5450-8CB5-1BD46175A34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521965E3-6C37-5450-8CB5-1BD46175A34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521965E3-6C37-5450-8CB5-1BD46175A34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078DF0D8-70D4-4B8D-DC9B-08C729997B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078DF0D8-70D4-4B8D-DC9B-08C729997B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078DF0D8-70D4-4B8D-DC9B-08C729997B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078DF0D8-70D4-4B8D-DC9B-08C729997B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D52781-B74E-CE9D-1364-83C8387A0BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D52781-B74E-CE9D-1364-83C8387A0BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D52781-B74E-CE9D-1364-83C8387A0BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D52781-B74E-CE9D-1364-83C8387A0BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
